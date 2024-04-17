@@ -6,7 +6,7 @@ imports:
     import-prefix: "privatebin"
   - vcs: "git"
     repo-root: "github.com/gearnode/base58"
-    import-prefix: "x/base58"
+    import-prefix: "encoding/base58"
   - vcs: "git"
     repo-root: "github.com/gearnode/ref"
     import-prefix: "x/ref"
