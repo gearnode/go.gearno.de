@@ -31,7 +31,7 @@ jobs:
           sudo install -m 755 vanity /usr/local/bin/vanity
 
       - run: "vanity -cfg vanity.yaml -output dist/"
-      - run: "sh tranform.sh"
+      - run: "sh ./transform.sh"
       - name: "Setup Pages"
         uses: "actions/configure-pages@v5"
       - name: "Upload artifact"
