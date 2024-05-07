@@ -16,3 +16,6 @@ imports:
   - vcs: "git"
     repo-root: "https://github.com/gearnode/vanity"
     import-prefix: "vanity"
+  - vcs: "git"
+    repo-root: "https://github.com/gearnode/panicf"
+    import-prefix: "x/panicf"
