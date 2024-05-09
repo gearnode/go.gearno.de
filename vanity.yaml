@@ -19,3 +19,6 @@ imports:
   - vcs: "git"
     repo-root: "https://github.com/gearnode/panicf"
     import-prefix: "x/panicf"
+  - vcs: "git"
+    repo-root: "https://github.com/gearnode/uuid"
+    import-prefix: "crypto/uuid"
