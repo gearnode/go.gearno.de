@@ -9,7 +9,7 @@ imports:
     import-prefix: "privatebin/v2"
   - vcs: "git"
     repo-root: "https://github.com/gearnode/kit"
-    import-prefix: "git"
+    import-prefix: "kit"
   - vcs: "git"
     repo-root: "https://github.com/gearnode/base58"
     import-prefix: "encoding/base58"
